@@ -5,7 +5,7 @@ theme: just-the-docs
 url: https://davidsanzcano.github.io/cms-scripting-tfg.github.io/
 
 aux_links:
-  Template Repository: https://github.com/DavidSanzCano/cms-scripting-tfg.github.io
+  Presentación: https://github.com/DavidSanzCano/cms-scripting-tfg.github.io
 permalink: pretty
 
 exclude:
