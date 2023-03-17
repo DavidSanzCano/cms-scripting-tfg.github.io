@@ -2,7 +2,7 @@
 layout: default
 title: Executive Summary
 nav_order: 1
-parent: Introducción
+parent: 1. Resumen ejecutivo
 has_toc: false
 ---
 
