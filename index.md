@@ -11,4 +11,4 @@ Esta web ha sido creada por David Sanz Cano para mi [proyecto](https://davidsanz
 
 Tutor: **David Gracia** CPIFP [Los Enlaces](https://cpilosenlaces.com/). 17/03/2023
 
-<img src="https://raw.githubusercontent.com/DavidSanzCano/cms-scripting-tfg.github.io/main/assets/images/logocpi.jpg" width="300" height="116" />
+<img src="https://raw.githubusercontent.com/DavidSanzCano/cms-scripting-tfg.github.io/main/assets/images/logocpi.png" width="300" height="116" />
