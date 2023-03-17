@@ -3,4 +3,4 @@ title: Inicio
 layout: home
 nav_order: 1
 ---
-Analizar CMS bajo plataforma servicios tipo LAMP y creación de scripts en PowerShell
+Analizando CMS bajo plataforma servicios tipo LAMP para almacenamiento y gestión de scripts en PowerShell.
