@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Resumen ejecutivo
-parent: Introducción
+parent: 1. Resumen ejecutivo
 nav_order: 1
 ---
 
