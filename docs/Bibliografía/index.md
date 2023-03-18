@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Bibliografía
-nav_order: 9
+title: 7. Bibliografía
+nav_order: 7
 has_children: false
 has_toc: false
 ---
