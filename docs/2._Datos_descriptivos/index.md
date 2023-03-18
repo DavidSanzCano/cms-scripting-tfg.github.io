@@ -18,7 +18,7 @@ has_toc: false
 
 - [2.3 Justificación]({{ https://davidsanzcano.github.io/cms-scripting-tfg.github.io/ }}{% link docs/2._Datos_descriptivos/2.3._Justificación.md %})
 
-- [2.4 Marco legal]({{ https://davidsanzcano.github.io/cms-scripting-tfg.github.io/ }}{% link docs/2._Datos_descriptivos/2.4._Marco_legal.md %}
+- [2.4 Marco legal]({{ https://davidsanzcano.github.io/cms-scripting-tfg.github.io/ }}{% link docs/2._Datos_descriptivos/2.4._Marco_legal.md %})
 
 - [2.5 Destinatarios]({{ https://davidsanzcano.github.io/cms-scripting-tfg.github.io/ }}{% link docs/2._Datos_descriptivos/2.5_Destinatarios.md %})
 
