@@ -6,10 +6,8 @@ has_children: true
 has_toc: false
 ---
 
-# Introducción
+# 1. Resumen ejecutivo
 <img src="https://raw.githubusercontent.com/DavidSanzCano/cms-scripting-tfg.github.io/main/assets/images/1.1.png" width="300" height="153" />
-## 1. Resumen ejecutivo
-
 ### Contenido
 
 - [Resumen ejecutivo]({{ https://davidsanzcano.github.io/cms-scripting-tfg.github.io/ }}{% link docs/Introducción/Resumen_ejecutivo.md %})
