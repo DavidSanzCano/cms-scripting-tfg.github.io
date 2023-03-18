@@ -8,7 +8,7 @@ has_toc: false
 
 # Introducción
 
-## Resumen ejecutivo
+## 1. Resumen ejecutivo
 
 ### Contenido
 
