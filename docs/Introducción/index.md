@@ -7,7 +7,7 @@ has_toc: false
 ---
 
 # 1. Resumen ejecutivo
-<img src="https://raw.githubusercontent.com/DavidSanzCano/cms-scripting-tfg.github.io/main/assets/images/1.1.png" width="300" height="53" />
+<img src="https://raw.githubusercontent.com/DavidSanzCano/cms-scripting-tfg.github.io/main/assets/images/1.1.png" width="300" height="253" />
 ### Contenido
 
 - [Resumen ejecutivo]({{ https://davidsanzcano.github.io/cms-scripting-tfg.github.io/ }}{% link docs/Introducción/Resumen_ejecutivo.md %})
