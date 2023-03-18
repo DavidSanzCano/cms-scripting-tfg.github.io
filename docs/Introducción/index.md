@@ -7,7 +7,7 @@ has_toc: false
 ---
 
 # Introducción
-
+<img src="https://raw.githubusercontent.com/DavidSanzCano/cms-scripting-tfg.github.io/main/assets/images/1.png" width="700" height="700" />
 ## 1. Resumen ejecutivo
 
 ### Contenido
