@@ -7,7 +7,7 @@ has_toc: false
 ---
 
 #  Desarrollo del proyecto
-
+<img src="https://raw.githubusercontent.com/DavidSanzCano/cms-scripting-tfg.github.io/main/assets/images/3.3.png" width="300" height="153" />
 
 ### Contenido
 
