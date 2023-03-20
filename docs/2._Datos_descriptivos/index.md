@@ -5,10 +5,9 @@ nav_order: 3
 has_children: true
 has_toc: false
 ---
+# 2. Datos descriptivos
 
-# Descripción
-
-## 2. Datos descriptivos
+<img src="https://raw.githubusercontent.com/DavidSanzCano/cms-scripting-tfg.github.io/main/assets/images/2.2.png" width="300" height="153" />
 
 ### Contenido
 
