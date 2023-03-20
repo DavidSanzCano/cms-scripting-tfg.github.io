@@ -6,7 +6,8 @@ has_children: false
 has_toc: false
 ---
 
-# Conclusiones
+# 5.Conclusiones
+<img src="https://raw.githubusercontent.com/DavidSanzCano/cms-scripting-tfg.github.io/main/assets/images/5.5.png" width="300" height="153" />
 
 
 
